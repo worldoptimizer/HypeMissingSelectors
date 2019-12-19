@@ -1,5 +1,6 @@
 # HypeMissingSelectors
 ![HypeMissingSelectors|690x487](https://playground.maxziebell.de/Hype/MissingSelectors/HypeMissingSelectors.png) 
+<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 Simple project to get the missing CSS selectors we all wished for :v:. These include selectors based on Symbol names, Layout names and Scene names. So, the following is now possible (example):
 ```html
