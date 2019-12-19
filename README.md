@@ -44,8 +44,5 @@ Latest minified version can be linked into your project using the following in t
 
 Optionally you can also link a SRI version or specific releases. Read more about that on the jsDelivr's global Content Delivery Network (CDN) landing page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeMissingSelectors
 
-
 Learn how to use the latest extension version and how to combine extentions into one file at
-
-
-[![](https://data.jsdelivr.com/v1/package/gh/worldoptimizer/HypeMissingSelectors/badge)](https://www.jsdelivr.com/package/gh/worldoptimizer/HypeMissingSelectors)
+https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
