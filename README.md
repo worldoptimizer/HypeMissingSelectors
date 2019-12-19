@@ -38,7 +38,6 @@ Simple project to get the missing CSS selectors we all wished for :v:. These inc
 Content Delivery Network (CDN)
 --
 Latest minified version can be linked into your project using the following in the head section of your project:
-<sub>HTML</sub>
 ```html
 <script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeMissingSelectors/HypeMissingSelectors.min.js"></script>
 ```
