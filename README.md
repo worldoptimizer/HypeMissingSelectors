@@ -38,4 +38,5 @@ Simple project to get the missing CSS selectors we all wished for :v:. These inc
 Delivery Network (CDN)
 --
 These files are mirrored on jsDelivr's global Content Delivery Network (CDN) at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeMissingSelectors.
+
 [![](https://data.jsdelivr.com/v1/package/gh/worldoptimizer/HypeMissingSelectors/badge)](https://www.jsdelivr.com/package/gh/worldoptimizer/HypeMissingSelectors)
