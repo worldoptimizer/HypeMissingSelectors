@@ -1,5 +1,5 @@
 # HypeMissingSelectors
-![HypeMissingSelectors|690x487](https://playground.maxziebell.de/Hype/MissingSelectors/HypeMissingSelectors.png) 
+![HypeMissingSelectors|690x487](https://playground.maxziebell.de/Hype/MissingSelectors/HypeMissingSelectors.jpg) 
 <sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 Simple project to get the missing CSS selectors we all wished for :v:. These include selectors based on Symbol names, Layout names and Scene names. So, the following is now possible (example):
@@ -38,12 +38,13 @@ Simple project to get the missing CSS selectors we all wished for :v:. These inc
 
 Content Delivery Network (CDN)
 --
-Latest minified version can be linked into your project using the following in the head section of your project:
+Latest version can be linked into your project using the following in the head section of your project:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeMissingSelectors/HypeMissingSelectors.min.js"></script>
 ```
 
-Optionally you can also link a SRI version or specific releases. Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeMissingSelectors
+Optionally you can also link a SRI version or specific releases.
+Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeMissingSelectors
 
-Learn how to use the latest extension version and how to combine extentions into one file at
+Learn how to use the latest extension version and how to combine extensions into one file at
 https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
